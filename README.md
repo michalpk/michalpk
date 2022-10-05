@@ -1,6 +1,6 @@
 ### Wazzup
 
-# la baguette 🌞
+[Královec](https://twitter.com/KralovecCzechia) 💖💖💖💖
 
 <!--
 **michalpk/michalpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
