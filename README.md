@@ -36,6 +36,7 @@ Media, memes, diplomati. Jo, tohle se fakt stalo.
 - 🌐 Weby v Reactu, Vitu, Tailwindu
 - 🧩 Backendy hlavně v Next.js, Node.js a výjímečně C#
 - 💻 Dělal jsem weby jako:
+  - [sideway.cz](https://sideway.cz)
   - [odtahovasluzba-pribram.cz](https://www.odtahovasluzba-pribram.cz)
   - [tariffump.com](https://tariffump.com)
   - ...a spousty dalších mikro/mid-sized webů
