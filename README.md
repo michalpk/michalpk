@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Michal!
 
-🎩 Full-stack developer from Královec, Czech Republic – I love web, AI, and ideas with real drive.  
+🎩 Full-stack developer from Královec, Czechia – I love web, AI, and ideas with real drive.  
 💻 I enjoy building things with style, function, and a bit of cheek.  
 🧠 I experiment with AI, backend, and frontend alike.  
 ☁️ I host on Cloudflare, my code’s on GitHub (though most projects are private).
