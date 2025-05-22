@@ -1,67 +1,67 @@
-# 👋 Ahoj, jsem Michal!
+# 👋 Hey, I’m Michal!
 
-🎩 Full-stack vývojář z Královce, Česko – miluju weby, AI a nápady, co mají drive.  
-💻 Baví mě tvořit věci se stylem, funkcí a trochou drzosti.  
-🧠 Experimentuju s AI, backendem i frontendem.  
-☁️ Hostuju na Cloudflare, kód mám na GitHubu (většina projektů je ale private).
+🎩 Full-stack developer from Královec, Czech Republic – I love web, AI, and ideas with real drive.  
+💻 I enjoy building things with style, function, and a bit of cheek.  
+🧠 I experiment with AI, backend, and frontend alike.  
+☁️ I host on Cloudflare, my code’s on GitHub (though most projects are private).
 
 ---
 
 ## 🎮 SidewayRP (2018–2024)  
 [🔗 sideway.cz](https://sideway.cz)
 
-Zakladatel, vývojář, manažer i vizionář.  
-Legendární český GTA V RP projekt, na kterém vyrostly stovky hráčů.
-Nešlo jen o RP server – stavěli jsme vlastní systém, intranet, boti, MDT nástroje a další věci.  
-Projekt, do kterého jsem dal stovky hodin, stovky hráčů a neskutečnou energii.
+Founder, developer, manager, and visionary.  
+A legendary Czech GTA V RP project that raised hundreds of players.  
+It wasn’t just an RP server – we built our own systems, intranet, bots, MDT tools, and more.  
+A project I put hundreds of hours, hundreds of players, and crazy energy into.
 
-> *„Nešlo jen o RP – šlo o legendu.“*
-
----
-
-## 🏰 Královec je český  
-[🌍 visitkralovec.cz](https://visitkralovec.cz) | [🐦 @KralovecCzechia](https://x.com/KralovecCzechia)
-
-Královec začal jako meme.  
-Vedl jsem tenhle projekt od prvních tweetů, koordinoval vibe a s týmem jsme dali dohromady web a spustili lavinu, kterou nešlo zastavit.  
-Media, memes, diplomati. Jo, tohle se fakt stalo.
-
-> *„Královec je český. Tečka.“*
+> *“It wasn’t just about RP – it was about building a legend.”*
 
 ---
 
-## 🧪 Mini projektíky a weby
+## 🏰 Královec is Czech  
+[🌍 visitkralovec.cz](https://visitkralovec.cz) &#124; [🐦 @KralovecCzechia](https://x.com/KralovecCzechia)
 
-- 🤖 AI pokusy a nástroje – od self-host modelů po různé automaty
-- 🌐 Weby v Reactu, Vitu, Tailwindu
-- 🧩 Backendy hlavně v Next.js, Node.js a výjímečně C#
-- 💻 Dělal jsem weby jako:
+Královec started as a meme.  
+I led the project from the very first tweets, set the vibe, and, with the team, launched the site and kicked off an unstoppable avalanche.  
+Media, memes, diplomats. Yeah, that really happened.
+
+> *“Královec is Czech. Period.”*
+
+---
+
+## 🧪 Mini Projects & Webs
+
+- 🤖 AI experiments & tools – from self-hosted models to various automations
+- 🌐 Websites in React, Vite, Tailwind
+- 🧩 Backends mostly in Next.js, Node.js, and (rarely) C#
+- 💻 Made sites like:
   - [sideway.cz](https://sideway.cz)
   - [odtahovasluzba-pribram.cz](https://www.odtahovasluzba-pribram.cz)
   - [tariffump.com](https://tariffump.com)
-  - ...a spousty dalších mikro/mid-sized webů
-- 🛠️ Tooly a skripty
-- 🧪 Crypto experimenty
+  - ...and dozens of other micro/mid-sized projects
+- 🛠️ Tools and scripts
+- 🧪 Occasional crypto experiments
 
 ---
 
-## 💾 Jak GitHub beru
+## 💾 How I Use GitHub
 
-GitHub je moje backstage, ne výloha.  
-Repozitáře slouží jako sandbox – většina kódu je private, ale sem tam tu něco veřejně prolétnu.  
-Pokud tě něco zaujme, vezmi si to nebo napiš.
+GitHub is my backstage, not a shop window.  
+My repos are sandboxes – most of my code is private, but every now and then I’ll push something public here.  
+If something catches your eye, take it or drop me a line.
 
 ---
 
-## 📬 Kontakt
+## 📬 Contact
 
 - 🌐 [michal.wtf](https://michal.wtf)  
 - 📧 [hey@michal.wtf](mailto:hey@michal.wtf)
 
 ---
 
-> *„Dělám věci, co fungujou. A občas i takový, co prostě musí bejt.“*
+> *“I make things that work. And sometimes things that just have to exist.”*
 
 ---
 
-*Tenhle text dala dohromady primárně AI s mojí režií – tak jako dneska skoro všechno.*
+*This text was put together mainly by AI, with my direction – pretty much how everything’s made these days.*
